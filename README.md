@@ -130,13 +130,13 @@ bitespeed-customer-identification/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/pintu544/IdentityReconciliation
 ```
 
 2. Install dependencies:
 
 ```bash
-cd bitespeed-customer-identification
+cd IdentityReconciliation
 npm install
 ```
 
